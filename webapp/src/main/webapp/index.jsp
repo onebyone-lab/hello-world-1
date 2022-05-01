@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password son of bitch</b></label>
+    <label for="psw"><b>Hi therererere!!!</b></label>
     <input type="password" placeholder="This is for testing tomcat" name="psw" id="psw" required>
     <br>
 
